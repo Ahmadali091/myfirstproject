@@ -1,0 +1,71 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+.first{
+    background-image:url(../img/download.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-size: color;
+}
+.one{
+    text-transform: capitalize;
+    text-align: center;
+    font-family: cursive;
+    color: crimson
+    padding-top:80px ;
+    margin: bottom 4px; ;
+}
+.two{;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size:40px;
+    color: white;
+}
+.three{
+    text-align: center; 
+    padding: 10px;
+    
+}
+.four{
+    order: 5px solid whiteA;
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    color: white;
+
+}
+i{
+    font-size: 30px;
+    border: 2px solid black;
+    color: red;
+    border-radius: 50%;
+    padding: 5px; 
+}
+.iconstarted{
+    text-align: center;
+    font-size: 15px;
+    /* padding: 3px; */
+    width: 30px;
+    display: inline-block;
+}
+.iconstarted{
+    text-align: center;
+    width: 30%;
+    display: inline-block;
+    margin: 10px 0px 10px 0px;
+
+
+}
+.secandsection{
+    text-align: center;
+    width: 32%;
+    display: inline-block;
+
+}
+.thridsection{
+    text-align: center;
+    width: 30%;
+    display: inline-block;
+}
